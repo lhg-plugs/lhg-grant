@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"基金申请助手：申请书框架→写作→评审模拟→预算表编制，评审偏好因机构而异仅供参考","name":"lhg-grant","source":"./"}]}
